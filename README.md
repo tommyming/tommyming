@@ -1,5 +1,6 @@
 Open Source is fun.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=tommyming&show_icons=true&locale=en&theme=swift" alt="Tommy Han" /></p>
 <!--
 **tommyming/tommyming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
